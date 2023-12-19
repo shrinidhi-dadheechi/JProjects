@@ -19,12 +19,12 @@ public class main {
 
 
  //           stmt1.executeUpdate("UPDATE Product SET prod = 'pp1' WHERE prod = 'p1'");
-//            stmt1.executeUpdate("UPDATE Stock SET prod = 'pp1' WHERE prod = 'p1'");
+
 //            stmt1.executeUpdate("UPDATE Depot SET dep = 'dd1' WHERE dep = 'd1'");
-//            stmt1.executeUpdate("UPDATE Stock SET dep = 'dd1' WHERE dep = 'd1'");
-//            stmt1.executeUpdate("DELETE FROM Stock WHERE prod = 'p1'");
+
+
 //            stmt1.executeUpdate("DELETE FROM Product WHERE prod = 'p1'");
-//            stmt1.executeUpdate("DELETE FROM Stock WHERE dep = 'd1'");
+
 //            stmt1.executeUpdate("DELETE FROM Depot WHERE dep = 'd1'");
 //            stmt1.executeUpdate("INSERT INTO Product(prod, pname, price) VALUES ('p100', 'cd', 5)");
 //            stmt1.executeUpdate("INSERT INTO Stock(prod, dep, quantity) VALUES ('p100', 'd2', 50)");
